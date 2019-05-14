@@ -67,6 +67,9 @@
     <string name="device_on7xelte" translatable="false">Samsung Galaxy J7 Prime</string>
     <string name="device_on7xelte_summary" translatable="false">on7xelte\nDouglas Gomes</string>
 
+    <string name="device_j7xelte" translatable="false">Samsung Galaxy J7 2016</string>
+    <string name="device_j7xelte_summary" translatable="false">j7xelte\nRuturaj Kadam</string>    
+  
     <string name="device_hlte" translatable="false">Samsung Galaxy Note 3</string>
     <string name="device_hlte_summary" translatable="false">hlte\nJoshua Primero (jprimero15)</string>
 
